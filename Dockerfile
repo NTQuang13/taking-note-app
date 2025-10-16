@@ -1,3 +1,4 @@
+
 # Base image Python
 FROM python:3.11-slim
 
@@ -22,3 +23,4 @@ EXPOSE 5000
 
 # Lệnh chạy app Flask
 CMD ["flask", "run"]
+

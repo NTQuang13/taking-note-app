@@ -1,6 +1,9 @@
-<<<<<<< HEAD
 # taking-note-app
-=======
+
+# =======
+
+> > > > > > > 7745dedfbe722f2eb06689f6a93b13780fbc0658
+
 # Flask Web App Tutorial
 
 ## Setup & Installation
@@ -25,17 +28,19 @@ python main.py
 
 Go to `http://127.0.0.1:5000`
 
+# 💻 Launch Your Software Development Career Today!
 
-# 💻 Launch Your Software Development Career Today!  
+🎓 **No degree? No problem!** My program equips you with everything you need to break into tech and land an entry-level software development role.
 
-🎓 **No degree? No problem!** My program equips you with everything you need to break into tech and land an entry-level software development role.  
+🚀 **Why Join?**
 
-🚀 **Why Join?**  
-- 💼 **$70k+ starting salary potential**  
-- 🕐 **Self-paced:** Complete on your own time  
+- 💼 **$70k+ starting salary potential**
+- 🕐 **Self-paced:** Complete on your own time
 - 🤑 **Affordable:** Low risk compared to expensive bootcamps or degrees
-- 🎯 **45,000+ job openings** in the market  
+- 🎯 **45,000+ job openings** in the market
 
 👉 **[Start your journey today!](https://techwithtim.net/dev)**  
 No experience needed—just your determination. Future-proof your career and unlock six-figure potential like many of our students have!  
->>>>>>> c3ed762 (v1.0)
+<<<<<<< HEAD
+
+> > > > > > > c3ed762 (v1.0)

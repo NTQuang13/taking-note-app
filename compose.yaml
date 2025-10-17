@@ -1,4 +1,3 @@
-
 version: '3.9'
 
 services:
@@ -7,14 +6,13 @@ services:
     container_name: taking-note-app
     ports:
       - "5000:5000"
-    volumes:
-      - .:/app                   # Mount code để sửa trực tiếp khi dev
-      - note_data:/app/instance  # Volume lưu database SQLite
     environment:
-      - FLASK_APP=main.py
+      - FLASK_APP=app.py
       - FLASK_ENV=development
+    volumes:
+      - .:/app                  # Mount code (dev)
+      - note_data:/app/instance # Persist database SQLite
     restart: always
 
 volumes:
   note_data:
-
